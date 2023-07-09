@@ -1,4 +1,5 @@
-# PBEE-Recovery
+# PBEE-Recovery + Utilities
+**** Before using this code, copy and paste outputs from lifelines code to the input folder!!
 Matlab codebase for quantifying building-specific functional recovery and reoccupancy based on a probabilistic performance-based earthquake engineering framework.
 
 ### Method Description
