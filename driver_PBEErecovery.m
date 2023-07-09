@@ -19,7 +19,7 @@ RP = [72, 108, 224, 475, 975, 2475, 4975];
 for j=1:7
     for i=2:2%length(Crew)
         %% Define User Inputs
-        model_name = 'RWFD - ASCE7-16 Design'; % Name of the model;
+        model_name = 'Example 1'; % Name of the model;
         % inputs are expected to be in a directory with this name
         % outputs will save to a directory with this name
 
